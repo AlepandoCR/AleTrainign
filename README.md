@@ -4,10 +4,18 @@ Welcome to the **AleTraining** repository!
 
 This project can be opened and developed using **IntelliJ IDEA**. Please make sure to read the comments in the code for guidance and additional details.
 
+![Latest Release](https://img.shields.io/github/v/release/AlepandoCR/AleTrainign)
+
 ## Important Notes
 
 - **Test/Development Server**: This repository does not include a built-in test or development server. However, you can download a test server setup from [this link](https://www.mediafire.com/file/vdqsbvr2kpotbm1/TestServer1.21_-_Trial.rar/file).
 - **Comments**: Comments within the code are provided to guide you through the functionality and structure. Make sure to review them to understand the implementation details.
+
+## Releases
+
+For stable releases of the project, please visit the [Releases Page](https://github.com/AlepandoCR/AleTrainign/releases).
+
+Here you will find downloadable versions, including important updates and changes.
 
 ## Getting Started
 
