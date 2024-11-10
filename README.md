@@ -4,7 +4,7 @@ Welcome to the **AleTraining** repository!
 
 This project can be opened and developed using **IntelliJ IDEA**. Please make sure to read the comments in the code for guidance and additional details.
 
-![Latest Release](https://img.shields.io/github/v/release/AlepandoCR/AleTrainign)
+![Latest Release](https://img.shields.io/github/v/release/AlepandoCR/AleTrainign?include_prereleases)
 
 ## Important Notes
 
