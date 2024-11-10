@@ -1,6 +1,6 @@
 # Project Name
 
-Welcome to the **Project Name** repository!
+Welcome to the **AleTraining** repository!
 
 This project can be opened and developed using **IntelliJ IDEA**. Please make sure to read the comments in the code for guidance and additional details.
 
