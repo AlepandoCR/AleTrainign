@@ -1,4 +1,4 @@
-# Project Name
+# AleTraining
 
 Welcome to the **AleTraining** repository!
 
