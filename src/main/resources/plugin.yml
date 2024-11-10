@@ -1,0 +1,13 @@
+name: AleTrainign
+version: '1-BETA'
+main: mapachos.pando.aleTrainign.AleTrainign
+api-version: '1.21'
+load: STARTUP
+authors: [ Alepando ]
+description: Training Plugin
+website: mapchos.com
+
+commands:
+  Example:
+    description: Example command for learning purposes
+    usage: /<command> [SubExample]
